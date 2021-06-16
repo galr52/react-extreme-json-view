@@ -61,10 +61,10 @@ class Demo extends React.PureComponent {
                     <div class="header-2">component demo</div>
                     <img
                         class="rjv-logo"
-                        src="https://github.com/mac-s-g/react-json-view/blob/master/doc/rjv-icon-alt.png?raw=true"
+                        src="https://github.com/galr52/react-extreme-json-view/blob/master/doc/rjv-icon-alt.png?raw=true"
                         onClick={() => {
                             window.open(
-                                'https://github.com/mac-s-g/react-json-view',
+                                'https://github.com/galr52/react-extreme-json-view',
                                 '_blank'
                             );
                         }}
