@@ -30,12 +30,12 @@ import ReactJson from 'react-extreme-json-view'
 ### Installation Instructions
 Install this component with [NPM](https://www.npmjs.com/package/react-json-view).
 ```shell
-npm install --save react-json-view
+npm install --save react-extreme-json-view
 ```
 Or add to your package.json config file:
 ```json
 "dependencies": {
-    "react-json-view": "latest"
+    "react-extreme-json-view": "latest"
 }
 ```
 
@@ -120,7 +120,7 @@ Returning `false` from a callback method will prevent the src from being affecte
 
 ```bash
 # clone this repository
-git clone git@github.com:mac-s-g/react-json-view.git && cd react-json-view
+git clone git@github.com:galr52/react-json-view.git && cd react-extreme-json-view
 # install dependencies
 npm install --save-dev
 # run the dev server with hot reloading
