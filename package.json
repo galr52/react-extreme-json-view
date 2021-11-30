@@ -1,7 +1,7 @@
 {
     "name": "react-extreme-json-view",
     "description": "Interactive react component for displaying javascript arrays and JSON objects. forked from react-json-view",
-    "version": "1.22.0",
+    "version": "1.23.0",
     "main": "dist/main.js",
     "dependencies": {
         "flux": "^4.0.1",
